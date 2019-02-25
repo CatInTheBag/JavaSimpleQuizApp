@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SimpleQuizApp</string>
+
+    <string name="false_button">No!</string>
+    <string name="true_button">Yes!</string>
+
+    <string name="initial_score">Score 0/5</string>
+
+    <string name="incorrect_toast">Wrong!</string>sni
+    <string name="correct_toast">That\'s right!</string>
+
+    <string name="question1">Integer is 32bit in Java?</string>
+    <string name="question2">String is immutable in Java?</string>
+    <string name="question3">Can we overload constructors in Java?</string>
+    <string name="question4">Can finally block be used without catch in Java?</string>
+    <string name="question5">Can we declare an abstract method private in Java?</string>
+</resources>
